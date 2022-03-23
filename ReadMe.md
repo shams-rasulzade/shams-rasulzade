@@ -1,6 +1,7 @@
 <h2>Hi, I'm <strong>Shams Rasulzade</strong></h2>
 <hr>
-<h3>I'm a Computer Science student at ASOIU. I've been interested in programming for about 2 years</h3>
+<h3>I'm a Computer Science student at ASOIU. I've been interested in programming for about 2 years. <br>
+Scroll down for more... 🙂</h3>
 
 <hr>
 
