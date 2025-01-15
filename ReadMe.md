@@ -1,8 +1,7 @@
 <h2>Hi, I'm <strong>Shams Rasulzade</strong></h2>
 <hr>
-<h3>I'm a Computer Science student. I've been interested in programming. <br>
+<h3>Just an average CS student. <br>
 Scroll down for more... 🙂</h3>
-
 <hr>
 
 ## 🔥 Streak stats
